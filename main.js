@@ -1,16 +1,5 @@
 "use strict";
 
-// function toggleMenu() {
-//   const menu = document.querySelector(".navList");
-//   menu.classList.toggle("active");
-// }
-
-// function toggleMenu() {
-//   const menu = document.querySelector("navList");
-//   console.log("Menu clicked");
-//   menu.classList.toggle(".active");
-// }
-
 function toggleMenu() {
   const menu = document.querySelector(".navList");
   console.log(menu); // Check if menu is found
